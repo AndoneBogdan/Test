@@ -1,11 +1,11 @@
 main {
   background-color: #ccc;
-  padding: 4px;
+  padding: 5px;
   color: #202020;
   font-family: "Oswald", sans-serif;
 }
 h1,
 h2 {
-  color: darkblue;
+  color: darkolivegreen;
   font-family: Georgia, "Times New Roman", Times, serif;
 }
